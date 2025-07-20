@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "proyek-nusantara-autokeren"
+  },
+  "targets": {
+    "proyek-nusantara-autokeren": {
+      "hosting": {
+        "supa-gcp-pg": [
+          "supa-gcp-pg"
+        ]
+      }
+    }
+  }
+}
